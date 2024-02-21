@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Feb 2024 13:19:25 at https://wedo.dexignzone.com/xhtml/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wedo.dexignzone.com/xhtml/index.html -O1 "C:\My Web Sites\Wedo ecommerce app" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:19:27	Warning: 	Found for https://wedo.dexignzone.com/robots.txt
+13:19:27	Warning: 	File has moved from https://wedo.dexignzone.com/robots.txt to https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:19:51	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:19:51	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:19:52	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:19:52	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:19:53	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:19:53	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:19:54	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:19:54	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:20:31	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:20:31	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:20:35	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:20:35	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:20:36	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:20:36	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:20:37	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:20:37	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:20:49	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:20:49	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:21:08	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:21:08	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:21:09	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:21:09	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:21:10	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:21:10	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:21:11	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:21:11	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+13:21:12	Warning: 	Unable to test https://wedo.dexignzone.com/xhtml/page-error-404.html (loop to same filename)
+13:21:12	Warning: 	link is probably looping, type unknown, aborting: https://wedo.dexignzone.com/xhtml/page-error-404.html
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 213 links scanned, 212 files written (11025850 bytes overall) [10696297 bytes received at 96363 bytes/sec], 685189 bytes transferred using HTTP compression in 62 files, ratio 19%, 15.0 requests per connection
+(No errors, 30 warnings, 0 messages)
